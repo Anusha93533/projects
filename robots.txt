@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /draft/
+
+# Allow search engines to crawl all content
+Crawl-delay: 10
+
+Sitemap: https://www.vrninfotech.com/sitemap.xml
